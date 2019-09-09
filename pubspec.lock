@@ -41,6 +41,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_account_kit:
+    dependency: "direct main"
+    description:
+      name: flutter_account_kit
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -74,6 +81,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  provider:
+    dependency: "direct main"
+    description:
+      name: provider
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.1.0"
   quiver:
     dependency: transitive
     description:
@@ -144,3 +158,4 @@ packages:
     version: "2.0.8"
 sdks:
   dart: ">=2.2.2 <3.0.0"
+  flutter: ">=0.11.3 <2.0.0"
