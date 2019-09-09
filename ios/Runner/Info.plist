@@ -41,5 +41,19 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<key>FacebookAppID</key>
+      <string>{your-app-id}</string>
+      <key>AccountKitClientToken</key>
+      <string>{your-account-kit-client-token}</string>
+      <key>CFBundleURLTypes</key>
+      <array>
+        <dict>
+          <key>CFBundleURLSchemes</key>
+          <array>
+            <string>ak{your-app-id}</string>
+          </array>
+        </dict>
+      </array>
 </dict>
 </plist>
