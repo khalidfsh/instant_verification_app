@@ -22,7 +22,7 @@ Instant Verification implementation and requirement [see here](https://developer
 
 ## Demo
 
-<img src="demo/instant_verification.gif">
+<img src="demo/instant_verification.gif" height='600'>
 
 ## Built with ❤️ using [**dart**](https://dart.dev), [**flutter**](https://flutter.dev) & [**flutter_account_kit**](https://github.com/peerwaya/flutter_account_kit).
 Show some ❤️, share and star the repo to support the project.
